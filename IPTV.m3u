@@ -447,15 +447,10 @@ rtp://239.3.1.212:8060
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="联通",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-id="金华教育科技频道" tvg-name="金华教育科技频道" tvg-logo="" group-title="本地",金华教育科技频道
-http://[2409:8087:280c:22::34]/wh7f454c46tw892661639_869872094/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/1/index.m3u8?fmt=ts2hls&icpid=88888888&from=9&vqe=3&RTS=1717811717&hms_devid=552&online=1717811717
-#EXTINF:-1 tvg-id="金华新闻综合频道" tvg-name="金华新闻综合频道" tvg-logo="" group-title="本地",金华新闻综合频道
-http://[2409:8087:280c:23::2a]/wh7f454c46tw917507855_1393440533/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612/1/index.m3u8?fmt=ts2hls&icpid=88888888&from=9&vqe=3&RTS=1717811742&hms_devid=1943&online=1717811742
 #EXTINF:-1 tvg-id="兰溪新闻综合频道" tvg-name="兰溪新闻综合频道" tvg-logo="" group-title="本地",兰溪新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1 tvg-id="缙云新闻综合频道" tvg-name="缙云新闻综合频道" tvg-logo="" group-title="本地",缙云新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-#EXTINF:-1 tvg-id="缙云综合频道" tvg-name="缙云综合频道" tvg-logo="" group-title="本地",缙云综合频道
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+
 
 
