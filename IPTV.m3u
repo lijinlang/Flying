@@ -449,3 +449,8 @@ rtp://239.3.1.165:8001
 rtp://239.3.1.164:8001
 #EXTINF:-1 tvg-id="兰溪新闻综合频道" tvg-name="兰溪新闻综合频道" tvg-logo="" group-title="本地",兰溪新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 tvg-id="缙云频道1" tvg-name="缙云频道1" tvg-logo="" group-title="本地",缙云频道1
+http://l.cztvcloud.com/channels/lantian/SXjinyun2/720p.m3u8
+#EXTINF:-1 tvg-id="缙云频道3" tvg-name="缙云频道3" tvg-logo="" group-title="本地",缙云频道3
+http://l.cztvcloud.com/channels/lantian/SXjinyun3/720p.m3u8
+
