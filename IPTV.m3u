@@ -447,3 +447,5 @@ rtp://239.3.1.212:8060
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="联通",快乐垂钓
 rtp://239.3.1.164:8001
+#EXTINF:-1 tvg-id="兰溪新闻综合频道" tvg-name="兰溪新闻综合频道" tvg-logo="" group-title="本地",兰溪新闻综合频道
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
